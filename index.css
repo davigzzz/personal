@@ -45,6 +45,7 @@ body{
   /* For mobile phones: */
   .heading h1{
     font-size: 25px;
+    width: 12em;
   }
 
   h3{
