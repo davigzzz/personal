@@ -40,11 +40,11 @@ body{
     border-right: 3px solid;
   }
 
-
-  @media only screen and (max-width: 768px) {
+ @media only screen and (max-width: 360) {
     /* For mobile phones: */
     .heading h1{
       font-size: 30px;
+      width: 11.5em;
     }
 
     h3{
